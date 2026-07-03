@@ -1,3 +1,4 @@
 # git-exercise
 This is a exercise. 
-Now this is in VS Code. 
+And this is a comment in VS Code. 
+This is another change. 
